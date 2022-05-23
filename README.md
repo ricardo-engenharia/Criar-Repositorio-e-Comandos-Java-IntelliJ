@@ -16,7 +16,7 @@ git remote add origin https://github.com/ricardo-engenharia/nomeDoRepositorioCri
 
 git push -u origin main
 
-## …or push an existing repository from the command line
+## …ou envie um repositório existente a partir da linha de comando
 
 git remote add origin https://github.com/ricardo-engenharia/nomeDoRepositorioCriado.git
 
