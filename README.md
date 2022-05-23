@@ -1,4 +1,28 @@
-# Java
+# GIT E Java
+
+## Ao criar Repositório no GitHub usando o Bash
+
+echo "# TESTE" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/ricardo-engenharia/TESTE.git
+
+git push -u origin main
+
+## …or push an existing repository from the command line
+
+git remote add origin https://github.com/ricardo-engenharia/TESTE.git
+
+git branch -M main
+
+git push -u origin main
 
 
 ## Liks para instalar JDK e outros 
